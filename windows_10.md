@@ -1,5 +1,7 @@
 # Steps to optimize Windows 10 for better performance
 - stay up to date
+- uninstall unwanted programs
+- scan with [malwarebytes](https://www.malwarebytes.com/)
 - use SSD for C: partition (Windows OS)
 - Power option -> high performance
 - Settings > Privacy : disable them all
@@ -19,3 +21,4 @@
 - Disk cleanup
 - Msconfig - disable services
 - Advanced settings - adjust for best performance
+
