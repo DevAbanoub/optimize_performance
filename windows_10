@@ -1,0 +1,21 @@
+# Steps to optimize Windows 10 for better performance
+- stay up to date
+- use SSD for C: partition (Windows OS)
+- Power option -> high performance
+- Settings > Privacy : disable them all
+- Location : disable
+- Background apps : disable except system ones
+- Notification : disable
+- Game bar : disable
+- Game dvr : disable
+- Broadcast - disable
+- TruePlay - disable
+- Defragment the C: to optimize
+- Startup programs
+- Win+R del temp
+- Win+R del %temp%
+- Del IDM downloaded
+- Del recyclebin
+- Disk cleanup
+- Msconfig - disable services
+- Advanced settings - adjust for best performance
