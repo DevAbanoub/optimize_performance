@@ -3,6 +3,7 @@
 - uninstall unwanted programs
 - scan with [malwarebytes](https://www.malwarebytes.com/)
 - use SSD for C: partition (Windows OS)
+- make sure C: has free space 5 GB as a minimum
 - Power option -> high performance
 - Settings > Privacy : disable them all
 - Location : disable
