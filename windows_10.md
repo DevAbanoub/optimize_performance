@@ -21,5 +21,5 @@
 - Del recyclebin
 - Disk cleanup
 - Msconfig - disable services
-- Advanced settings - adjust for best performance
+- `advanced system settings` > `Performance Settings` > `Adjust for best performance`
 
