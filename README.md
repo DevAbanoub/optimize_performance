@@ -4,7 +4,7 @@ Steps to optimize performance of Windows, Mac, Linux, Android OSes performance
 ## Optimization for Operating Systems
 - [Windows 10](https://github.com/DevAbanoub/optimize_performance/blob/master/windows_10.md)
 - Windows 8.1
-- Windows 7
+- [Windows 7](https://github.com/DevAbanoub/optimize_performance/blob/master/windows_7.md)
 - Mac OS X
 - [Ubuntu 18.04 LTS](https://github.com/DevAbanoub/optimize_performance/blob/master/ubuntu_18.md)
 
