@@ -10,6 +10,7 @@ Steps to optimize performance of Windows, Mac, Linux, Android OSes performance
 
 ## Optimization for Programs & Apps
 - [Google Chrome browser](https://github.com/DevAbanoub/optimize_performance/blob/master/chrome.md)
+- Mozilla Firefox
 
 ## Optimization for GPUs
 - [NVidia Graphics Card GPU](https://github.com/DevAbanoub/optimize_performance/blob/master/nvidia_gpu.md)
